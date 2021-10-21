@@ -1,8 +1,8 @@
 ### Olá! meu nome é  Fabio
 
-- 🔭 I’m currently working on  minha empresa,sou dono de uma academia de artes marciais.
-- 🌱 I’m currently  faço faculdade de Analise em Desenvolvimento de Sistema e Progração web front-end.                   
-- 👯 I’m looking t uma oportunidade de estagio.
+- 🔭 I’m currently working on:I own a martial arts academy
+- 🌱 I’m currently:  I study analysis in system development and study front-end web programming                 
+- 👯 I’m looking:Internship opportunity.
 
 <div align="center">
   <a href="https://fabioalcinosantos">
@@ -18,3 +18,8 @@
 </div>  
   
   
+<div> 
+  <a href="https://instagram.com/fabioalcino_academy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fabioasantosdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fabio-alcino-dos-santos-155a911b7-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
